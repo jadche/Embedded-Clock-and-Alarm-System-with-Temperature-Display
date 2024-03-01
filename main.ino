@@ -4,7 +4,6 @@
 #define B2 A1
 #define B3 A2
 #define B4 A3
-
 #define buzzer 10
 #define temp_sense A5
 
